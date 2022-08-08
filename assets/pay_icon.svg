@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="15" height="15" fill="#6c7991"/>
+    </clipPath>
+  </defs>
+  <g id="payment-icon" transform="translate(-35 -255)">
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="15" height="15" transform="translate(35 255)" fill="none" opacity="0.62"/>
+    <g id="Group_27" data-name="Group 27" transform="translate(35 255)" clip-path="url(#clip-path)">
+      <path id="Path_37" data-name="Path 37" d="M14,12.3H11.643a2.714,2.714,0,0,1,0-5.429H14a.337.337,0,0,0,.357-.357V5.44a1.393,1.393,0,0,0-1.286-1.357l-2-3.357a1.536,1.536,0,0,0-.857-.643,1.215,1.215,0,0,0-1,.143L2.571,4.083H1.357A1.4,1.4,0,0,0,0,5.44v8.214a1.4,1.4,0,0,0,1.357,1.357H12.929a1.356,1.356,0,0,0,1.357-1.357v-1A.327.327,0,0,0,14,12.3ZM11.5,2.8l.714,1.286H9.286ZM3.929,4.083,9.643.8a.472.472,0,0,1,.429-.071,1.494,1.494,0,0,1,.429.286L5.214,4.083Z" transform="translate(0 -0.011)" fill="#6c7991"/>
+      <path id="Path_38" data-name="Path 38" d="M17.828,10.5H15.471a2.071,2.071,0,0,0,0,4.143h2.357a.976.976,0,0,0,1-1V11.571A1,1,0,0,0,17.828,10.5ZM15.4,13.214a.716.716,0,0,1-.714-.714.675.675,0,0,1,.714-.714.716.716,0,0,1,.714.714A.675.675,0,0,1,15.4,13.214Z" transform="translate(-3.829 -3)" fill="#6c7991"/>
+    </g>
+  </g>
+</svg>
